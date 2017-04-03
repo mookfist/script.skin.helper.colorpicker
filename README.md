@@ -1,4 +1,4 @@
-# Skin Helper Service Color Picker
+# Skin Helper Service Color Picker (modified by mookfist)
 ### script.skin.helper.colorpicker
 ### A Color picker to be used by Kodi skins
 
